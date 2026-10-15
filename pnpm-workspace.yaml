@@ -1,0 +1,6 @@
+allowBuilds:
+  esbuild: true
+  msw: true
+  unrs-resolver: true
+fetchRetries: 5
+fetchTimeout: 300000
